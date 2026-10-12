@@ -217,7 +217,7 @@ python infer.py --weights weights/best.pt --source data/armor.mp4 --list-classes
 | 项目 | 内容 |
 | --- | --- |
 | 拍摄地点 | 水建学院 D414 实验室 |
-| 拍摄设备 | <!-- 待确认：请补充你实际使用的拍摄设备（手机型号） --> |
+| 拍摄设备 | Redmi K70（手机拍摄） |
 | 视频时长 | 10.2 秒（611 帧） |
 | 分辨率与帧率 | 3840×2160（4K），60 FPS，横屏 |
 | 文件大小 | 77.6 MiB（`robomaster.mp4`，作为作业附件提交） |
