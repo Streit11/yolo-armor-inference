@@ -1,0 +1,13 @@
+# 装甲板关键点推理所需依赖
+# 安装：pip install -r requirements.txt
+#
+# 说明：
+#   * ultralytics 会自动带上 torch / torchvision / pillow 等依赖；
+#   * 默认 pip 安装的 torch 为 CPU 版本，已足够完成本作业；
+#   * 如需 GPU 加速（CUDA），先按 PyTorch 官网命令安装对应 CUDA 版 torch，再安装本文件其余依赖。
+
+ultralytics>=8.3.0
+torch>=2.2
+torchvision>=0.17
+opencv-python>=4.8.0
+numpy>=1.24
