@@ -1,0 +1,2 @@
+# README 中引用的代表性截图放在本目录（result_1.png / result_2.png）
+# 生成方式：运行 infer.py 时加 --save-frames N，从 snapshots/ 中挑选清晰的帧复制到这里
